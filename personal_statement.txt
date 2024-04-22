@@ -1,1 +1,3 @@
 나는 personal_statement.txt다!
+
+자기 소개가 추가되었다!
